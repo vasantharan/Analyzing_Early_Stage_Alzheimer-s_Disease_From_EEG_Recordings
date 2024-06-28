@@ -1,1 +1,1 @@
-# Analyzing_Early_Stage_Alzheimer-s_Disease_From_EEG_Recordings
+# Analyzing Early Stage Alzheimer's Disease From EEG Recordings
